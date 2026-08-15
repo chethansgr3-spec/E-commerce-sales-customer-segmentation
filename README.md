@@ -22,7 +22,7 @@ The project uses Python, Pandas, plotly, and Streamlit to perform data analysis 
 
 \- Pandas
 
-\-plotly
+\- Plotly
 
 \- Jupyter Notebook
 
