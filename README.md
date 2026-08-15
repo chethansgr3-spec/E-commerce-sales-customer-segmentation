@@ -22,12 +22,6 @@ The project uses Python, Pandas, NumPy, Matplotlib, Seaborn, and Streamlit to pe
 
 \- Pandas
 
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
 \- Jupyter Notebook
 
 \- Streamlit
