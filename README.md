@@ -1,87 +1,84 @@
-# E-Commerce Sales and Customer Analytics using Python
+\# 🛒 E-Commerce Sales and Customer Segmentation
 
-## Project Overview
 
-This project analyzes e-commerce sales data using Python to understand sales performance, customer purchasing behavior, product performance, and overall business trends. The analysis uses data cleaning, exploratory data analysis, and visualization techniques to generate meaningful business insights.
 
-## Objectives
+\## 📌 Project Overview
 
-- Analyze overall sales performance.
-- Identify monthly and yearly sales trends.
-- Find top-performing products and categories.
-- Analyze customer purchasing behavior.
-- Identify high-value customers.
-- Understand regional or segment-wise performance.
-- Generate actionable business insights.
 
-## Dataset
 
-The project uses the **Sample Superstore** dataset containing information related to orders, customers, products, sales, quantity, discounts, profit, categories, and regions.
+This project analyzes e-commerce sales data to understand sales performance, customer behavior, product performance, and customer segments.
 
-## Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 
-## Data Cleaning
+The project uses Python, Pandas, NumPy, Matplotlib, Seaborn, and Streamlit to perform data analysis and create an interactive dashboard.
 
-The dataset was prepared for analysis by:
 
-- Checking missing values.
-- Removing duplicate records.
-- Checking and correcting data types.
-- Validating numerical and categorical columns.
-- Preparing the data for exploratory analysis.
 
-## Exploratory Data Analysis
+\## 🛠️ Technologies Used
 
-EDA was performed to understand:
 
-- Sales and profit distribution.
-- Sales trends over time.
-- Category and sub-category performance.
-- Customer purchasing patterns.
-- Regional performance.
-- Relationship between sales, quantity, discount, and profit.
 
-## Key Analysis
+\- Python
 
-The project analyzes:
+\- Pandas
 
-- Total sales and profit.
-- Monthly sales trends.
-- Top-selling products.
-- Most profitable categories.
-- Customer and order performance.
-- Regional sales performance.
-- Discount and profit relationships.
+\- NumPy
 
-## Visualizations
+\- Matplotlib
 
-The analysis uses Python visualizations such as:
+\- Seaborn
 
-- Bar charts
-- Line charts
-- Histograms
-- Box plots
-- Heatmaps
-- Scatter plots
+\- Jupyter Notebook
 
-## Key Insights
+\- Streamlit
 
-The analysis helps identify important patterns in sales and customer behavior, including high-performing products and categories, sales trends, customer purchasing patterns, and factors that influence profitability.
 
-## Project Structure
 
-```text
-E-Commerce-Sales-and-Customer-Analytics/
-│
-├── E-commerce and Sales.ipynb
-├── Sample - Superstore1.csv
-├── iframe_figures/
-├── .gitignore
-└── README.md
+\## 📂 Project Files
+
+
+
+\- `E-commerce and Sales.ipynb` - Data cleaning, analysis, EDA, and visualizations
+
+\- `app.py` - Streamlit dashboard application
+
+\- `Sample - Superstore1.csv` - Dataset
+
+\- `requirements.txt` - Required Python libraries
+
+\- `.gitignore` - Files excluded from Git
+
+
+
+\## 📊 Key Analysis
+
+
+
+\- Sales and profit analysis
+
+\- Category and sub-category performance
+
+\- Regional sales analysis
+
+\- Customer segmentation
+
+\- Top-performing products
+
+\- Sales trends
+
+\- Interactive Streamlit dashboard
+
+
+
+\## 🚀 How to Run
+
+
+
+Install the required libraries:
+
+
+
+```bash
+
+pip install -r requirements.txt
+

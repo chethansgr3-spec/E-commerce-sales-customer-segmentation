@@ -1,2 +1,5 @@
-pandas
-plotly
+pandas 
+numpy 
+matplotlib 
+seaborn 
+streamlit 
