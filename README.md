@@ -80,20 +80,51 @@ pip install -r requirements.txt
 
 ### Sales Analysis
 
-![Figure 27](images/figure_27.png)
+## 📊 Project Visualizations
 
-![Figure 42](images/figure_42.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>Figure 27</b><br>
+      <img src="images/figure_27.png" width="300">
+    </td>
+    <td align="center">
+      <b>Figure 42</b><br>
+      <img src="images/figure_42.png" width="300">
+    </td>
+    <td align="center">
+      <b>Figure 44</b><br>
+      <img src="images/figure_44.png" width="300">
+    </td>
+  </tr>
 
-![Figure 44](images/figure_44.png)
+  <tr>
+    <td align="center">
+      <b>Figure 46</b><br>
+      <img src="images/figure_46.png" width="300">
+    </td>
+    <td align="center">
+      <b>Figure 47</b><br>
+      <img src="images/figure_47.png" width="300">
+    </td>
+    <td align="center">
+      <b>Figure 51</b><br>
+      <img src="images/figure_51.png" width="300">
+    </td>
+  </tr>
 
-![Figure 46](images/figure_46.png)
-
-![Figure 47](images/figure_47.png)
-
-![Figure 51](images/figure_51.png)
-
-![Figure 60](images/figure_60.png)
-
-![Figure 73](images/figure_73.png)
-
-![Figure 75](images/figure_75.png)
+  <tr>
+    <td align="center">
+      <b>Figure 60</b><br>
+      <img src="images/figure_60.png" width="300">
+    </td>
+    <td align="center">
+      <b>Figure 73</b><br>
+      <img src="images/figure_73.png" width="300">
+    </td>
+    <td align="center">
+      <b>Figure 75</b><br>
+      <img src="images/figure_75.png" width="300">
+    </td>
+  </tr>
+</table>
