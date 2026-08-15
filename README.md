@@ -76,10 +76,6 @@ Install the required libraries:
 
 pip install -r requirements.txt
 
-## Project Visualizations
-
-### Sales Analysis
-
 ## 📊 Project Visualizations
 
 <table>
