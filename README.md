@@ -10,7 +10,7 @@ This project analyzes e-commerce sales data to understand sales performance, cus
 
 
 
-The project uses Python, Pandas, NumPy, Matplotlib, Seaborn, and Streamlit to perform data analysis and create an interactive dashboard.
+The project uses Python, Pandas, plotly, and Streamlit to perform data analysis and create an interactive dashboard.
 
 
 
@@ -21,6 +21,8 @@ The project uses Python, Pandas, NumPy, Matplotlib, Seaborn, and Streamlit to pe
 \- Python
 
 \- Pandas
+
+\-plotly
 
 \- Jupyter Notebook
 
