@@ -78,49 +78,31 @@ pip install -r requirements.txt
 
 ## 📊 Project Visualizations
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Figure 27</b><br>
-      <img src="images/figure_27.png" width="300">
-    </td>
-    <td align="center">
-      <b>Figure 42</b><br>
-      <img src="images/figure_42.png" width="300">
-    </td>
-    <td align="center">
-      <b>Figure 44</b><br>
-      <img src="images/figure_44.png" width="300">
-    </td>
-  </tr>
+## 📊 Project Visualizations
 
-  <tr>
-    <td align="center">
-      <b>Figure 46</b><br>
-      <img src="images/figure_46.png" width="300">
-    </td>
-    <td align="center">
-      <b>Figure 47</b><br>
-      <img src="images/figure_47.png" width="300">
-    </td>
-    <td align="center">
-      <b>Figure 51</b><br>
-      <img src="images/figure_51.png" width="300">
-    </td>
-  </tr>
+### Figure 27
+<img src="images/figure_27.png" width="500">
 
-  <tr>
-    <td align="center">
-      <b>Figure 60</b><br>
-      <img src="images/figure_60.png" width="300">
-    </td>
-    <td align="center">
-      <b>Figure 73</b><br>
-      <img src="images/figure_73.png" width="300">
-    </td>
-    <td align="center">
-      <b>Figure 75</b><br>
-      <img src="images/figure_75.png" width="300">
-    </td>
-  </tr>
-</table>
+### Figure 42
+<img src="images/figure_42.png" width="500">
+
+### Figure 44
+<img src="images/figure_44.png" width="500">
+
+### Figure 46
+<img src="images/figure_46.png" width="500">
+
+### Figure 47
+<img src="images/figure_47.png" width="500">
+
+### Figure 51
+<img src="images/figure_51.png" width="500">
+
+### Figure 60
+<img src="images/figure_60.png" width="500">
+
+### Figure 73
+<img src="images/figure_73.png" width="500">
+
+### Figure 75
+<img src="images/figure_75.png" width="500">
