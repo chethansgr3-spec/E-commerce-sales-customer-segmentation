@@ -76,3 +76,24 @@ Install the required libraries:
 
 pip install -r requirements.txt
 
+## Project Visualizations
+
+### Sales Analysis
+
+![Figure 27](images/figure_27.png)
+
+![Figure 42](images/figure_42.png)
+
+![Figure 44](images/figure_44.png)
+
+![Figure 46](images/figure_46.png)
+
+![Figure 47](images/figure_47.png)
+
+![Figure 51](images/figure_51.png)
+
+![Figure 60](images/figure_60.png)
+
+![Figure 73](images/figure_73.png)
+
+![Figure 75](images/figure_75.png)
